@@ -39,3 +39,4 @@ A Block has four pieces of metadata:
 4. The Merkle tree root for the transactions included in this block (Merkle tree is explained next).
 
 ## Merkle tree
+![Merkle tree](images/Bitcoin_Block_Data.png "Merkle tree")
