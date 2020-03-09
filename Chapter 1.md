@@ -38,3 +38,4 @@ A Block has four pieces of metadata:
 3. The timestamp
 4. The Merkle tree root for the transactions included in this block (Merkle tree is explained next).
 
+## Merkle tree
