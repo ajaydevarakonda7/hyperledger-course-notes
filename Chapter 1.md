@@ -17,6 +17,8 @@ convergence(
 4. new consensus algo
 )
 
+But bitcoin does not support smart contracts.
+
 In summary, `distributed ledger technology` generally consists of three `basic components`:
 
 1. A `data model`, that captures the current state of the ledger
@@ -24,4 +26,6 @@ In summary, `distributed ledger technology` generally consists of three `basic c
 3. A `protocol` used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.
 
 ## Blockchains
-Block chain = chronological chain of blocks
+Block chain = chronological chain of blocks. Each block is timestamped.
+
+Chain Core, Corda, Quorum, and IOTA are examples of blockchains available.
