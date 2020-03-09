@@ -14,7 +14,7 @@ convergence(
 1. timestamping transactions, 
 2. p2p networks, crypto,
 3. shared computational power,
-4. new algo
+4. new consensus algo
 )
 
 In summary, `distributed ledger technology` generally consists of three `basic components`:
