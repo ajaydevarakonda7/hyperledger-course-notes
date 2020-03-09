@@ -8,7 +8,9 @@ to end-users and remove the need to trust any third-party servers and infrastruc
 ## DLT
 Distribute ledger technologies = block chain technologies + smart contracts
 
-DLTs existed even before bitcoin, but bitcoin = convergence(
+DLTs existed even before bitcoin, but bitcoin =
+
+convergence(
 1. timestamping transactions, 
 2. p2p networks, crypto,
 3. shared computational power,
