@@ -16,3 +16,9 @@ convergence(
 3. shared computational power,
 4. new algo
 )
+
+In summary, distributed ledger technology generally consists of three basic components:
+
+A data model that captures the current state of the ledger
+A language of transactions that changes the ledger state
+A protocol used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.
