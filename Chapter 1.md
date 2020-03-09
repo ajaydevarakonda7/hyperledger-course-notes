@@ -38,5 +38,11 @@ A Block has four pieces of metadata:
 3. The timestamp
 4. The Merkle tree root for the transactions included in this block (Merkle tree is explained next).
 
-## Merkle tree
+### Merkle tree
 ![Merkle tree](images/Bitcoin_Block_Data.png "Merkle tree")
+
+## What is blockchain
+IROHA of hyperledger is very suitable for mobile based clients.
+
+## Transactions
+Transactions = Record of an event cryptographically secured with digital signature, that is verified. Also ordered and bundled together into blocks.
