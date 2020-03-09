@@ -29,3 +29,12 @@ In summary, `distributed ledger technology` generally consists of three `basic c
 Block chain = chronological chain of blocks. Each block is timestamped.
 
 Chain Core, Corda, Quorum, and IOTA are examples of blockchains available.
+
+### Bitcoin block
+A Block has four pieces of metadata:
+
+1. The reference to the previous block
+2. The proof of work, also known as a nonce
+3. The timestamp
+4. The Merkle tree root for the transactions included in this block (Merkle tree is explained next).
+
