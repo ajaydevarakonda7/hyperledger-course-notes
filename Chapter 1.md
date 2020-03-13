@@ -5,6 +5,8 @@ Computing started with mainframes. Then cloud computing came along and cause dis
 application level centralization existed. Distributed systems like blockchain "give explicit control of digital assets \
 to end-users and remove the need to trust any third-party servers and infrastructure" (copied from muneeb ali's post).
 
+# Chapter 1 - Discovering block chain technologies
+
 ## DLT
 Distribute ledger technologies = block chain technologies + smart contracts
 
@@ -38,7 +40,7 @@ A Block has four pieces of metadata:
 3. The timestamp
 4. The Merkle tree root for the transactions included in this block (Merkle tree is explained next).
 
-### Merkle tree
+## Merkle tree
 ![Merkle tree](images/Bitcoin_Block_Data.png "Merkle tree")
 
 ## What is blockchain
@@ -46,3 +48,5 @@ IROHA of hyperledger is very suitable for mobile based clients.
 
 ## Transactions
 Transactions = Record of an event cryptographically secured with digital signature, that is verified. Also ordered and bundled together into blocks.
+
+## Smart contracts
